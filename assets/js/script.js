@@ -2,11 +2,17 @@
 let taskList = JSON.parse(localStorage.getItem("tasks"));
 let nextId = JSON.parse(localStorage.getItem("nextId"));
 
+const calendar = document.querySelector('#modal-task-due-date');
+
 // Todo: create a function to generate a unique task id
 function generateTaskId() { 
     uniqueTaskId = Date.now();
     uniqueTaskId.toString;
     console.log(`${uniqueTaskId}`);
+}
+
+function renderCalendar() {
+  dayjs('2019-01-25').daysInMonth() // 31
 }
 
 // Todo: create a function to create a task card
@@ -53,3 +59,6 @@ $(document).ready(function () {
 });
 
 generateTaskId();
+console.log(dayjs());
+renderCalendar();
+
