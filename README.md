@@ -1,7 +1,7 @@
 # Project Management Application
 
 ## Description
-This [website]() allows you to manage tasks by assigning a title, due date, and description to cards that can be moved through the to-do, in progress, and done stages. The code was refactored with the intention of utilizing bootstrap to add a modal and jquery to enable task card creation and deletion.
+This [website](https://jorge-baldovinos.github.io/project-management-application/) allows you to manage tasks by assigning a title, due date, and description to cards that can be moved through the to-do, in progress, and done stages. The code was refactored with the intention of utilizing bootstrap to add a modal and jquery to enable task card creation and deletion.
 
 ## Usage
 
@@ -19,6 +19,9 @@ After the user has assigned the task details and clicked on the "add task" butto
 
 The task cards will also appear color coded based off their due date. Red cards indicate past due, while yellow cards indicate upcoming due dates.
 ![Website Screenshot]()
+
+## Credits
+I utilized Bootstrap to inlcude a modal in the website. [https://getbootstrap.com/docs/4.0/components/modal/#modal-components]{https://getbootstrap.com/docs/4.0/components/modal/#modal-components}
 
 ## License
 
