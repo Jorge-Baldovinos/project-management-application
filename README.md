@@ -21,7 +21,7 @@ The task cards will also appear color coded based off their due date. Red cards 
 ![Website Screenshot]()
 
 ## Credits
-I utilized Bootstrap to inlcude a modal in the website. [https://getbootstrap.com/docs/4.0/components/modal/#modal-components]{https://getbootstrap.com/docs/4.0/components/modal/#modal-components}
+I utilized Bootstrap to inlcude a modal in the website. https://getbootstrap.com/docs/4.0/components/modal/#modal-components
 
 ## License
 
